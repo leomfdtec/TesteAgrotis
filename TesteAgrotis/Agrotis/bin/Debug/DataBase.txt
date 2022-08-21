@@ -1,0 +1,38 @@
+CREATE TABLE tblClientes (
+    Cod    INTEGER       PRIMARY KEY AUTOINCREMENT
+                        NOT NULL
+                        UNIQUE,
+    Nome VARCHAR(100) NOT NULL,
+	Telefone VARCHAR(11) NOT NULL,
+    CEP VARCHAR(8) NOT NULL,
+    Logradouro VARCHAR(50) NOT NULL,
+	Numero VARCHAR(10) NOT NULL,
+    Complemento VARCHAR(15) NOT NULL,
+    Bairro VARCHAR(20) NOT NULL,
+    Cidade VARCHAR(20) NOT NULL,
+    UF VARCHAR(2) NOT NULL,
+    IBGE VARCHAR(10) NOT NULL
+);
+
+
+CREATE TABLE tblProdutos (
+    Cod    INTEGER       PRIMARY KEY AUTOINCREMENT
+                        NOT NULL
+                        UNIQUE,
+	Nome VARCHAR(100) NOT NULL,
+    Descricao VARCHAR(255) NULL,
+    Peso integer NOT NULL,
+    Preco integer NOT NULL
+);
+
+
+CREATE TABLE tblPedido (
+    CodRegistro    INTEGER       PRIMARY KEY AUTOINCREMENT
+                        NOT NULL
+                        UNIQUE,
+	CodPedido INTEGER NOT NULL,
+    DatEmissao DATE NOT NULL,
+    Quantidade INTEGER NOT NULL,
+    CodCliente INTEGER REFERENCES tblClientes (Cod) NOT NULL,
+    CodProduto INTEGER REFERENCES tblProdutos (Cod) NOT NULL
+);

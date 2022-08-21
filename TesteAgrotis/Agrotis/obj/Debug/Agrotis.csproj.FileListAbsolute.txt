@@ -1,0 +1,278 @@
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\obj\Debug\Agrotis.csproj.AssemblyReference.cache
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\obj\Debug\Agrotis.csproj.SuggestedBindingRedirects.cache
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\obj\Debug\Agrotis.Properties.Resources.resources
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\obj\Debug\Agrotis.csproj.GenerateResource.cache
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\obj\Debug\Agrotis.csproj.CoreCompileInputs.cache
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\Agrotis.exe.config
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\Agrotis.exe
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\Agrotis.pdb
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\RestSharp.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Buffers.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Memory.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Text.Json.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.ValueTuple.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\RestSharp.xml
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Buffers.xml
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Memory.xml
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Text.Json.xml
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.ValueTuple.xml
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\obj\Debug\Agrotis.csproj.CopyComplete
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\obj\Debug\Agrotis.exe
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\obj\Debug\Agrotis.pdb
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\obj\Debug\Agrotis.frmCadClientes.resources
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\obj\Debug\Agrotis.exe.config
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\netstandard.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.AppContext.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Collections.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.ComponentModel.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Console.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Data.Common.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Globalization.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.IO.Compression.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.IO.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.IO.Pipes.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Linq.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Net.Http.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Net.Ping.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Net.Primitives.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Net.Requests.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Net.Security.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Net.Sockets.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.ObjectModel.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Reflection.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Resources.Reader.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Resources.Writer.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Runtime.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Security.Claims.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Security.Principal.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Security.SecureString.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Text.Encoding.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Threading.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Threading.Thread.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Threading.Timer.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Xml.XPath.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\EntityFramework.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Data.SQLite.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\EntityFramework.xml
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Simatec\source\repos\Agrotis\Agrotis\bin\Debug\System.Data.SQLite.xml
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\Agrotis.exe.config
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\Agrotis.exe
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\Agrotis.pdb
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\netstandard.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.AppContext.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Collections.Concurrent.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Collections.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Collections.NonGeneric.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Collections.Specialized.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.ComponentModel.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.ComponentModel.Primitives.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Console.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Data.Common.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Diagnostics.Contracts.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Diagnostics.Debug.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Diagnostics.Process.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Diagnostics.Tools.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Diagnostics.Tracing.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Drawing.Primitives.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Dynamic.Runtime.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Globalization.Calendars.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Globalization.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Globalization.Extensions.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.IO.Compression.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.IO.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.IO.FileSystem.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.IO.IsolatedStorage.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.IO.Pipes.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Linq.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Linq.Expressions.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Linq.Parallel.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Linq.Queryable.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Net.Http.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Net.NameResolution.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Net.NetworkInformation.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Net.Ping.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Net.Primitives.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Net.Requests.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Net.Security.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Net.Sockets.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Net.WebSockets.Client.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Net.WebSockets.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.ObjectModel.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Reflection.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Reflection.Extensions.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Reflection.Primitives.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Resources.Reader.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Resources.ResourceManager.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Resources.Writer.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Runtime.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Runtime.Extensions.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Runtime.Handles.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Runtime.InteropServices.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Runtime.Numerics.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Security.Claims.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Security.Principal.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Security.SecureString.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Text.Encoding.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Text.RegularExpressions.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Threading.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Threading.Overlapped.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Threading.Tasks.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Threading.Thread.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Threading.ThreadPool.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Threading.Timer.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Xml.ReaderWriter.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Xml.XDocument.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Xml.XmlDocument.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Xml.XmlSerializer.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Xml.XPath.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\EntityFramework.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\EntityFramework.SqlServer.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\RestSharp.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\SQLitePCLRaw.core.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Buffers.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Data.SQLite.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Data.SQLite.EF6.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Data.SQLite.Linq.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Memory.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Numerics.Vectors.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Text.Encodings.Web.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Text.Json.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.ValueTuple.dll
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\EntityFramework.xml
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\EntityFramework.SqlServer.xml
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\RestSharp.xml
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Buffers.xml
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Data.SQLite.xml
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Memory.xml
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Numerics.Vectors.xml
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Text.Encodings.Web.xml
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Text.Json.xml
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\bin\Debug\System.ValueTuple.xml
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\obj\Debug\Agrotis.csproj.AssemblyReference.cache
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\obj\Debug\Agrotis.csproj.SuggestedBindingRedirects.cache
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\obj\Debug\Agrotis.exe.config
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\obj\Debug\Agrotis.frmCadClientes.resources
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\obj\Debug\Agrotis.Properties.Resources.resources
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\obj\Debug\Agrotis.csproj.GenerateResource.cache
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\obj\Debug\Agrotis.csproj.CoreCompileInputs.cache
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\obj\Debug\Agrotis.csproj.CopyComplete
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\obj\Debug\Agrotis.exe
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\obj\Debug\Agrotis.pdb
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\obj\Debug\Agrotis.frmCadProdutos.resources
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\obj\Debug\Agrotis.frmPedidos.resources
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\obj\Debug\Agrotis.frmPedidosDetalhado.resources
+D:\SIMATEC SYNC\Meus Arquivos\Agrotis\Agrotis\Agrotis\obj\Debug\Agrotis.frmPrincipal.resources
